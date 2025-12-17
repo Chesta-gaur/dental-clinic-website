@@ -214,7 +214,7 @@ body.menu-open {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url("../assets/hero-bg.jpg");
+  background-image: url("./../assets/hero-bg.jpg");
 }
 #hero .hero-content {
   height: 100%;
@@ -1010,7 +1010,7 @@ footer .copyrights {
 }
 #service-banner .banner-wrapper {
   padding: 60px 0;
-  background: url(../assets/services-page/banner.jpeg);
+  background: url("./../assets/services-page/banner.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1184,4 +1184,5 @@ footer .copyrights {
     line-height: 22px;
   }
 }
+
 
